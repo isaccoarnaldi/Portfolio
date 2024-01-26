@@ -6,7 +6,7 @@ Welcome to my data portfolio!
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |   
+| 💡 [Case Study #3: Foodie-Fi](https://github.com/isaccoarnaldi/Foodie-Fi/blob/main/README.md) | Data analysis, data cleaning, data transformation | Danny launched Foodie-Fi in 2020, a streaming service exclusively for cooking shows with monthly and annual subscriptions. The startup, founded with a data-driven approach, focuses on using subscription-style digital data for key business insights related to customer journeys, payments, and overall performance. This case study focuses on using subscription-style digital data to answer various business questions. |   
 
 ***
 
