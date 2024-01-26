@@ -1,6 +1,6 @@
 # 🗂 Portfolio
 
-Welcome to my data portfolio! Here is a summary of my projects. 
+Welcome to my data portfolio!
 
 ## SQL
 
