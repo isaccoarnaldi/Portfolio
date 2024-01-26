@@ -6,7 +6,7 @@ Welcome to my data portfolio!
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [Case Study #3: Foodie-Fi](https://github.com/isaccoarnaldi/Foodie-Fi/blob/main/README.md) | Data analysis, data cleaning, data transformation | Danny launched Foodie-Fi in 2020, a streaming service exclusively for cooking shows with monthly and annual subscriptions. The startup, founded with a data-driven approach, focuses on using subscription-style digital data for key business insights related to customer journeys, payments, and overall performance. This case study focuses on using subscription-style digital data to answer various business questions. |   
+| 🥑 [Case Study #3: Foodie-Fi](https://github.com/isaccoarnaldi/Foodie-Fi/blob/main/README.md) | Data analysis, data cleaning, data transformation | Danny launched Foodie-Fi in 2020, a streaming service exclusively for cooking shows with monthly and annual subscriptions. The startup, founded with a data-driven approach, focuses on using subscription-style digital data for key business insights related to customer journeys, payments, and overall performance. This case study focuses on using subscription-style digital data to answer various business questions. |   
 
 ***
 
