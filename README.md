@@ -2,12 +2,7 @@
 
 Welcome to my data portfolio! Here is a summary of my projects. 
 
-## 📚 Table of Contents
-- [SQL](#sql)
-- [Tableau](#tableau)
-
-
-# SQL
+## SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -15,7 +10,7 @@ Welcome to my data portfolio! Here is a summary of my projects.
 
 ***
 
-# Tableau
+## Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
