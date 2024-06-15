@@ -28,4 +28,4 @@ Welcome to my data portfolio!
 
 | Project Link | Library | Project Description | 
 |---|---|---|
-| 👾  [Tetris]() | PyGame | A tetris game coded in python - WIP |
+| 👾  [Tetris](https://github.com/isaccoarnaldi/tetris_pygame/tree/main) | PyGame | A tetris game coded in python - WIP |
