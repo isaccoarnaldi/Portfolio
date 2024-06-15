@@ -23,3 +23,9 @@ Welcome to my data portfolio!
 | 👨‍💻 HR Dashboard | Analyzed data for the HR department to acquire insights into company attrition, exploring factors such as department, gender, age group, education, and job satisfaction. | [Dashboard](https://public.tableau.com/app/profile/isacco.arnaldi/viz/HRDashboard_17044137059090/HRAnalytics) |
 
 ***
+
+## Python
+
+| Project Link | Library | Project Description | 
+|---|---|---|
+| 👾  [Tetris]() | PyGame | A tetris game coded in python - WIP |
